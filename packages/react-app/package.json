@@ -1,6 +1,9 @@
 {
   "name": "@scaffold-eth/react-app",
   "version": "1.0.0",
+    "engines": {
+    "node": "16.x"
+  },
   "homepage": ".",
   "browserslist": {
     "production": [
@@ -102,8 +105,5 @@
     "ship": "yarn surge",
     "theme": "npx gulp less",
     "watch": "node ./scripts/watch.js"
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
