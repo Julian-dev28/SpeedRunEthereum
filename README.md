@@ -1,4 +1,4 @@
-# 🏃‍♀️ Live Laugh Soroban [![Netlify Status](https://api.netlify.com/api/v1/badges/f925ecf3-0b4b-4545-8412-7b860c76b7f1/deploy-status)](https://app.netlify.com/sites/wonderful-kirch-4ab41a/deploys)
+# 🏃‍♀️ Live Laugh Soroban [![Netlify Status](https://api.netlify.com/api/v1/badges/c73c7aca-87a5-461f-928e-01a695447d4f/deploy-status)](https://app.netlify.com/sites/dancing-cheesecake-969da3/deploys)
 
 ![SRE Thumbnail](./packages/react-app/public/thumbnail.png)
 
