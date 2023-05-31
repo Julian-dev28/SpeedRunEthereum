@@ -123,7 +123,7 @@ export default function ChallengeDetailView({ serverUrl, address, userProvider, 
         </Box>
         <Tabs align="center" colorScheme="green">
           <TabList>
-            {descriptionJs && <Tab>Javascript</Tab>}
+            {/* {descriptionJs && <Tab>Javascript</Tab>} */}
             {descriptionTs && <Tab>Typescript</Tab>}
           </TabList>
           <TabPanels align="left">

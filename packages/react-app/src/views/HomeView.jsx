@@ -60,7 +60,7 @@ export default function HomeView({ connectedBuilder, userProvider }) {
             }}
             textAlign="center"
           >
-            Learn how to build on <strong>Ethereum</strong>; the superpowers and the gotchas.
+            Learn how to build on <strong>Soroban</strong>; the superpowers and the gotchas.
           </Text>
 
           <Center
@@ -71,7 +71,7 @@ export default function HomeView({ connectedBuilder, userProvider }) {
             mt="15px"
             w="100%"
           >
-            <HeroLogo maxW="600px" height="auto" />
+            {/* <HeroLogo maxW="600px" height="auto" /> */}
           </Center>
 
           <BulletNumber primaryFontColor={primaryFontColor} bgColor={bgColor}>
@@ -88,14 +88,14 @@ export default function HomeView({ connectedBuilder, userProvider }) {
           >
             Watch this{" "}
             <a
-              href="https://www.youtube.com/watch?v=MlJPjJQZtC8"
+              href="https://www.youtube.com/watch?v=XcFgR_OHKl8"
               target="_blank"
               rel="noopener noreferrer"
               style={{ textDecoration: "underline" }}
             >
               quick video
             </a>{" "}
-            as an Intro to Ethereum Development.
+            as an Intro to Soroban Development.
           </Text>
 
           <BulletNumber primaryFontColor={primaryFontColor} bgColor={bgColor}>
@@ -113,16 +113,16 @@ export default function HomeView({ connectedBuilder, userProvider }) {
             Then use{" "}
             <a
               style={{ textDecoration: "underline" }}
-              href="https://github.com/scaffold-eth/scaffold-eth#-scaffold-eth"
+              href="https://github.com/stellar/scaffold-soroban"
               rel="noopener noreferrer"
               target="_blank"
             >
               <span role="img" aria-label="teacher icon">
                 🏗
               </span>{" "}
-              Scaffold-ETH
+              Scaffold-Soroban
             </a>{" "}
-            to copy/paste each Solidity concept and tinker:
+            to copy/paste each Soroban concept and tinker:
           </Text>
 
           <Text
@@ -218,7 +218,7 @@ export default function HomeView({ connectedBuilder, userProvider }) {
             }}
             textAlign="center"
           >
-            When you are ready to test your knowledge, Speed Run Ethereum:
+            When you are ready to test your knowledge, Live Laugh Soroban:
           </Text>
         </Container>
         <Box
