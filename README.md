@@ -1,10 +1,7 @@
-# 🏃‍♀️ Live Laugh Soroban [![Netlify Status](https://api.netlify.com/api/v1/badges/c73c7aca-87a5-461f-928e-01a695447d4f/deploy-status)](https://app.netlify.com/sites/dancing-cheesecake-969da3/deploys)
+# 🏃‍♀️ Live Laugh Soroban
 
-![SRE Thumbnail](./packages/react-app/public/thumbnail.png)
 
 Live Laugh Soroban aims to provide a structured learning path for onboarding developers to Ethereum.
-
-[🏃‍♀️Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c) with a framework for submitting challenges, get feedback from ethereum builders, and in the process unlocking new challenges and prof of completion.
 
 ---
 
@@ -13,9 +10,9 @@ Live Laugh Soroban aims to provide a structured learning path for onboarding dev
 Get the project code:
 
 ```bash
-git clone git@github.com:BuidlGuidl/SpeedRunEthereum.git
+git clone https://github.com/Julian-dev28/SpeedRunSoroban.git
 
-cd SpeedRunEthereum
+cd SpeedRunSoroban
 ```
 
 Install dependencies:
